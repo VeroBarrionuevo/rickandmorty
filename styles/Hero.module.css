@@ -1,0 +1,21 @@
+.container {
+    background-image: url(../static/images/hero2.jpg);
+    height: 115vh;
+    background-size: cover;
+    
+}
+
+.button{
+    background-color: rgb(228, 167, 136);
+    font-weight: bold;
+    margin: 10px;
+    padding: 30px;
+    
+}
+
+
+.button:hoover{
+    background-color: #c6bb1b;
+}
+
+
